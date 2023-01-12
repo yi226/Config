@@ -1,0 +1,12 @@
+{
+    "Code": 0, 
+    "Msg": "", 
+    "UpdateStatus": 1, 
+    "VersionCode": 9,
+    "VersionName": "2.0.7",
+    "ModifyContent": "1、支持Material3。\r\n2、支持深色模式。",
+    "DownloadUrl": "https://github.com/yi226/CallOut/releases/download/new/app-release.apk",
+    "ApkSize": 19843,
+    "ApkMd5": "408d8801ef680ce0804a82ae1e864d92"  
+}
+  
