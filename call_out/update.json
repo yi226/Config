@@ -2,11 +2,11 @@
     "Code": 0, 
     "Msg": "", 
     "UpdateStatus": 1, 
-    "VersionCode": 11,
-    "VersionName": "2.0.9",
-    "ModifyContent": "1、增加更新提示",
-    "DownloadUrl": "https://github.com/yi226/call_out/releases/download/V2.0.9/app-release.apk",
+    "VersionCode": 12,
+    "VersionName": "2.0.10",
+    "ModifyContent": "1、提高稳定性\n2、优化流畅度",
+    "DownloadUrl": "https://github.com/yi226/call_out/releases/download/V2.0.10/app-release.apk",
     "ApkSize": 19843,
-    "ApkMd5": "6b6ce7c0182bf1498453f0184cc4cbf2"  
+    "ApkMd5": "7798cf6b0dd92a9d9e3ce1def3652a91"  
 }
   
