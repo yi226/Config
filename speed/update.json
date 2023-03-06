@@ -1,7 +1,7 @@
 {
-    "version": "2.0",
-    "info": "支持在线更新",
-    "windows": "https://github.com/yi226/speed/releases/download/v2.0/speed.exe",
-    "android": "https://github.com/yi226/speed/releases/download/v2.0/speed.apk",
-    "linux": "https://github.com/yi226/speed/releases/download/v2.0/speed.tar.xz"
+    "version": "2.1",
+    "info": "增加关于弹窗",
+    "windows": "https://github.com/yi226/speed/releases/download/v2.1/speed.exe",
+    "android": "https://github.com/yi226/speed/releases/download/v2.1/speed.apk",
+    "linux": "https://github.com/yi226/speed/releases/download/v2.1/speed.tar.xz"
 }
