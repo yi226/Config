@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.0.0",
     "info": "首次发布 (call_out重构版)",
     "android": "https://github.com/yi226/attendance/releases/download/v1.0/app-arm64-v8a-release.apk"
 }
