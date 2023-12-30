@@ -1,5 +1,5 @@
 {
-    "version": "2.2",
-    "info": "增加发现局域网设备",
-    "android": "https://github.com/yi226/attendance/releases/download/v2.2/app-arm64-v8a-release.apk"
+    "version": "2.3",
+    "info": "增加文件后缀绑定[android]",
+    "android": "https://github.com/yi226/attendance/releases/download/v2.3/app-arm64-v8a-release.apk"
 }
